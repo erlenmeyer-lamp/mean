@@ -1,0 +1,23 @@
+{
+  "name": "mean",
+  "version": "0.0.1",
+  "homepage": "https://github.com/erlenmeyer-lamp/mean",
+  "authors": [
+    "Erlenmeyer Lamp (erlenmeyer [dot] lamp [at] gmail [dot] com)"
+  ],
+  "description": "MEAN stack learn tutorial",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/javascripts/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.9",
+    "jquery": "~2.0.3"
+  }
+}
